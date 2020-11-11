@@ -38,6 +38,9 @@ LiFi pada saat awal di kembangkan hanya dapat meraih kecepatan 150 Mbps dan sang
 Dari perkembangan yang ada, teknologi Li-Fi juga menyimpan banyak tantangan antara lain membutuhkan line-of-sight yang sempurna untuk mengirimkan data. Tantangan berat lainnya yaitu cara mengirimkan kembali data ke pemancar secara optimal.
  
  
+ 
+ ### REFERENSI
+ 
   https://tekno.foresteract.com/lifi/
   https://en.m.wikipedia.org/wiki/Li-Fi
   https://unida.ac.id/teknologi/artikel/li-fi.html
