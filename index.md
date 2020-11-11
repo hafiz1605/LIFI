@@ -40,10 +40,10 @@ Dari perkembangan yang ada, teknologi Li-Fi juga menyimpan banyak tantangan anta
  
  ### Referensi
   ### https://tekno.foresteract.com/lifi/
-   https://en.m.wikipedia.org/wiki/Li-Fi
-   https://unida.ac.id/teknologi/artikel/li-fi.html
-   https://ee.uii.ac.id/2020/06/01/mengenal-teknologi-li-fi-light-fidelity/
-   https://getective.com/apa-yang-dimaksud-dengan-lifi/
+  ### https://en.m.wikipedia.org/wiki/Li-Fi
+  ### https://unida.ac.id/teknologi/artikel/li-fi.html
+  ### https://ee.uii.ac.id/2020/06/01/mengenal-teknologi-li-fi-light-fidelity/
+  ### https://getective.com/apa-yang-dimaksud-dengan-lifi/
 
 
 
