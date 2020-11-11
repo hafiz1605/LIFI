@@ -1,4 +1,4 @@
-# LiFi ( Light Fidelity )
+# LIFI ( Light Fidelity )
 
 ![Image](hz1.jpg)
 
