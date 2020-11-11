@@ -27,7 +27,7 @@ LiFi pada saat awal di kembangkan hanya dapat meraih kecepatan 150 Mbps dan sang
  4. Memilki 2 kegunaan sekaligus yaitu untuk menerangkan dan mentransmisikan data.
  5. Keunggulan lain dari teknologi Li-Fi adalah mampu mengurangi polusi elektromagnetik yang dihasilkan oleh gelombang radio.
 
- ### kekurangan LiFi ( Light Fidelity )
+ kekurangan LiFi ( Light Fidelity )
   1. Kurangnya Mobilitas.
   2. Cakupan Jaringan yang Sempit.
   3. Tidak Bisa Menembus Dinding.
@@ -38,7 +38,6 @@ LiFi pada saat awal di kembangkan hanya dapat meraih kecepatan 150 Mbps dan sang
 Dari perkembangan yang ada, teknologi Li-Fi juga menyimpan banyak tantangan antara lain membutuhkan line-of-sight yang sempurna untuk mengirimkan data. Tantangan berat lainnya yaitu cara mengirimkan kembali data ke pemancar secara optimal.
  
  
- ### Referensi
   https://tekno.foresteract.com/lifi/
   https://en.m.wikipedia.org/wiki/Li-Fi
   https://unida.ac.id/teknologi/artikel/li-fi.html
